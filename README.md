@@ -1,4 +1,4 @@
-# ✈️ Flight Booking System (JavaFX)
+#  Flight Booking System (JavaFX)
 
 This is a JavaFX-based Flight Booking System that allows users to:
 
@@ -11,7 +11,7 @@ The project demonstrates Object-Oriented Programming concepts and GUI developmen
 
 ---
 
-## 🖥️ User Interface Overview
+##  User Interface Overview
 
 ### 1. Create Flight Interface
 
@@ -97,7 +97,7 @@ The project demonstrates Object-Oriented Programming concepts and GUI developmen
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Object-Oriented Programming (OOP)
 - JavaFX GUI
@@ -108,7 +108,7 @@ The project demonstrates Object-Oriented Programming concepts and GUI developmen
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open project in NetBeans
 2. Ensure JavaFX is properly configured
@@ -116,7 +116,7 @@ The project demonstrates Object-Oriented Programming concepts and GUI developmen
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Save data to file or database
 - Login system
