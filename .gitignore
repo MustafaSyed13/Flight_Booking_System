@@ -9,3 +9,6 @@ nbproject/Package-*.bash
 *.log
 .DS_Store
 Thumbs.db
+
+out/
+
