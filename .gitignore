@@ -1,6 +1,10 @@
-/build/
-/dist/
-/nbproject/private/
+﻿build/
+dist/
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bat
+nbproject/Package-*.cmd
+nbproject/Package-*.bash
 *.class
 *.log
 .DS_Store
