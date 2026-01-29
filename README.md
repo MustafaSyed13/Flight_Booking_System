@@ -1,13 +1,11 @@
 #  Flight Booking System (JavaFX)
+# Flight Booking System (JavaFX)
 
-This is a JavaFX-based Flight Booking System that allows users to:
+A JavaFX desktop application that simulates a real-world flight booking platform, allowing users to create flights, search routes, and book seats with dynamic ticket pricing based on passenger type.
 
-- Create new flights
-- Search available flights
-- Book seats for passengers
-- View booked tickets
+This project demonstrates object-oriented design, GUI development, and event-driven programming in Java.
 
-The project demonstrates Object-Oriented Programming concepts and GUI development using JavaFX.
+
 
 ---
 
